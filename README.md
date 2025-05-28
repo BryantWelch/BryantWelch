@@ -1,13 +1,14 @@
 # Bryant Welch
 
-## Network & Systems Administrator | 8+ Years of IT Experience
+## Network & Systems Administrator | 10+ Years of IT Experience
 
 Results-oriented, well-established, and self-motivated IT professional with the demonstrated ability to analyze, troubleshoot, and resolve issues; identify and proactively address potential problems; and design systemic approaches to creating secure networking and data infrastructures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryant_Welch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-welch)
 [![Email](https://img.shields.io/badge/Email-resume.bryantwelch@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resume.bryantwelch@protonmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B1_(706)_455--3716-4285F4?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+17064553716)
 [![Location](https://img.shields.io/badge/Location-Blue_Ridge,_Georgia-4A90E2?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Blue+Ridge,+GA)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bryantwelch)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BryantWelch.BryantWelch)](https://github.com/BryantWelch/BryantWelch)
 
 ---
 
@@ -58,6 +59,12 @@ Results-oriented, well-established, and self-motivated IT professional with the 
 - **SQL Databases**: Administration, Troubleshooting, SQL Queries
 - **Vulnerability Remediation**: Tenable, Tanium, Wazuh, SIEM, CVE, CVSS
 
+### IT Management
+- **Team Leadership**: Leading, mentoring, and supervising 10+ IT personnel across various roles and skill levels
+- **Skill Development**: Fostering professional growth and technical competency in team members
+- **Workflow Optimization**: Streamlining IT processes and implementing best practices for improved departmental efficiency
+- **Resource Allocation**: Managing IT resources effectively to meet organizational objectives
+
 ### Project Management
 - Creating, leading, and guiding projects with reliability, budgeting, planning, coordination, execution, and documentation
 
@@ -72,6 +79,13 @@ Results-oriented, well-established, and self-motivated IT professional with the 
   - Networking Specialist Program
 
 ### Certifications
+
+[![CompTIA Server+](https://img.shields.io/badge/CompTIA-Server%2B-6C4598?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/server)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/network)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-4CAF50?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
+[![CompTIA ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-FFA500?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/it-fundamentals)
+
 - **CompTIA Server+** (June 2024)
 - **CompTIA Security+** (June 2024 - June 2027)
 - **CompTIA Network+** (May 2024 - June 2030)
@@ -82,27 +96,43 @@ Results-oriented, well-established, and self-motivated IT professional with the 
 
 ---
 
+## 📊 GitHub Activity
+
+[![Bryant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BryantWelch&theme=github)](https://github.com/BryantWelch/github-readme-activity-graph)
+
+---
+
 ## 💻 Projects
 
 ### [AD-Snapshot](https://github.com/BryantWelch/AD-Snapshot)
 A comprehensive Active Directory reporting tool that generates detailed snapshots of your AD environment. Features both a PowerShell script and a user-friendly GUI to collect and visualize information about admin memberships, servers, users, computers, and BitLocker status.
 
-**Technologies Used:** PowerShell
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### [display-test.app](https://github.com/BryantWelch/display-test.app)
 A modern, comprehensive display testing application designed to help users evaluate and diagnose various aspects of their displays. From dead pixels to response time, this tool provides a suite of tests to ensure your display is performing optimally.
 
-**Technologies Used:** JavaScript, React
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### [keyboard-test.app](https://github.com/BryantWelch/keyboard-test.app)
 An interactive web application designed to help users test and analyze keyboard input with precision. Provides comprehensive key press tracking, visualization, and educational information about keyboards and typing.
 
-**Technologies Used:** TypeScript, React
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### [Spreadsheet-Wrangler](https://github.com/BryantWelch/Spreadsheet-Wrangler)
 A feature-packed PowerShell GUI tool for spreadsheet operations with no Excel dependency. Includes backup functionality, spreadsheet combining, SKU list processing, label creation, and configuration management.
 
-**Technologies Used:** PowerShell
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
