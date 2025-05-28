@@ -4,11 +4,11 @@
 
 Results-oriented, well-established, and self-motivated IT professional with the demonstrated ability to analyze, troubleshoot, and resolve issues; identify and proactively address potential problems; and design systemic approaches to creating secure networking and data infrastructures.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryant_Welch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-welch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryant_Welch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryant-forrest-welch/)
 [![Email](https://img.shields.io/badge/Email-resume.bryantwelch@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resume.bryantwelch@protonmail.com)
 [![Location](https://img.shields.io/badge/Location-Blue_Ridge,_Georgia-4A90E2?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Blue+Ridge,+GA)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bryantwelch)
-[![Visitors](https://img.shields.io/badge/Visitors-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BryantWelch/BryantWelch)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/bryant-welch)
 
 ---
 
