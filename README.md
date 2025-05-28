@@ -8,7 +8,7 @@ Results-oriented, well-established, and self-motivated IT professional with the 
 [![Email](https://img.shields.io/badge/Email-resume.bryantwelch@protonmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resume.bryantwelch@protonmail.com)
 [![Location](https://img.shields.io/badge/Location-Blue_Ridge,_Georgia-4A90E2?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Blue+Ridge,+GA)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bryantwelch)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=BryantWelch.BryantWelch)](https://github.com/BryantWelch/BryantWelch)
+[![Visitors](https://img.shields.io/badge/Visitors-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BryantWelch/BryantWelch)
 
 ---
 
@@ -139,3 +139,5 @@ A feature-packed PowerShell GUI tool for spreadsheet operations with no Excel de
 ## 📫 Let's Connect
 
 I'm always interested in discussing new technologies, networking solutions, and IT infrastructure projects. Feel free to reach out via [email](mailto:resume.bryantwelch@protonmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bryant-welch).
+
+![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=BryantWelch.BryantWelch)
