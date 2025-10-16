@@ -177,6 +177,6 @@ A feature-packed PowerShell GUI tool for spreadsheet operations with no Excel de
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing new technologies, networking solutions, and IT infrastructure projects. Feel free to reach out via [email](mailto:resume.bryantwelch@protonmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bryant-welch).
+I'm always interested in discussing new technologies, networking solutions, and IT infrastructure projects. Feel free to reach out via [email](mailto:resume.bryantwelch@protonmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bryant-forrest-welch).
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=BryantWelch.BryantWelch)
