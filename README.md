@@ -32,7 +32,7 @@ System Administrator with 10+ years of IT experience supporting enterprise infra
 - Assisted with documentation, site validation, and deployment planning to support accurate implementation and operational readiness
 - Provided customer-facing technical support and contributed to train-the-trainer style handoff during rollouts
 
-### [Harrah's Cherokee Valley River Casino & Hotel](https://www.caesars.com/harrahs-cherokee-valley-river) | Murphy, NC
+### Harrah's Cherokee Valley River Casino & Hotel | Murphy, NC
 
 **Network & Systems Administrator**
 - Maintained entire Casino infrastructure (hardware and software)
