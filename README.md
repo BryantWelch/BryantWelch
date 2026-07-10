@@ -16,7 +16,7 @@ System Administrator with 10+ years of IT experience supporting enterprise infra
 
 ### BOAZ - Media & Network Solutions | Blairsville, GA
 
-**Lead Endpoint Solutions Engineer**
+#### Lead Endpoint Solutions Engineer
 - Led and managed the Endpoint Support team, overseeing day-to-day ticket flow and workload distribution to meet SLAs and company standards
 - Owned all backup operations across the environment, administering and monitoring Windows Server Backup and Synology-based backup solutions
 - Acted as primary escalation point for complex endpoint and Windows Server issues, providing hands-on technical support (remote and on-site)
@@ -26,15 +26,15 @@ System Administrator with 10+ years of IT experience supporting enterprise infra
 
 ### Raptor Technologies | Remote / Travel
 
-**Project Installation Coordinator** (Contract)
+#### Project Installation Coordinator (Contract)
 - Supported on-site implementation of school safety technology solutions (Badge Alert), including system setup, configuration, and deployment
 - Troubleshot hardware, software, and configuration issues during installations, escalating complex problems as needed
 - Assisted with documentation, site validation, and deployment planning to support accurate implementation and operational readiness
 - Provided customer-facing technical support and contributed to train-the-trainer style handoff during rollouts
 
-### Harrah's Cherokee Valley River Casino & Hotel | Murphy, NC
+### [Harrah's Cherokee Valley River Casino & Hotel](https://www.caesars.com/harrahs-cherokee-valley-river) | Murphy, NC
 
-**Network & Systems Administrator**
+#### Network & Systems Administrator
 - Maintained entire Casino infrastructure (hardware and software)
 - Created and maintained Disaster Recovery, Business Resilience, Business Impact Analysis, and Business Continuity Plans (DRP, BRP, BIA, BCP)
 - Mentored and supervised all IT personnel (~15), monitoring escalated tickets and collaborating with corporate, interdepartmental, and vendor resources
@@ -44,7 +44,7 @@ System Administrator with 10+ years of IT experience supporting enterprise infra
 - Planned, coordinated, executed, and documented major Casino IT projects with budgets up to $1,000,000+
 - Maintained backup and recovery using Veeam, Rubrik, Backup Exec, Veritas, Synology, and Rsync
 
-**Network & Systems Specialist**
+#### Network & Systems Specialist
 - Ensured functionality of all systems through regular updates, patching, and vulnerability remediation using Tenable, Tanium, ExtraHop, and Cortex XDR
 - Created and maintained monthly server reboot processes via automated scripts and documented manual procedures
 - Created, maintained, and updated all IT documentation, network matrices, and diagrams
@@ -52,7 +52,7 @@ System Administrator with 10+ years of IT experience supporting enterprise infra
 - Maintained IIS/Apache websites, Juniper switch configurations, and compliance requirements (activities, ICPs, audits)
 - Addressed Level I and Level II escalated tickets while mentoring and supervising IT personnel
 
-**IT Support Specialist II**
+#### IT Support Specialist II
 - Led the 2016 Server Migration Project upgrading ~70 servers from Server 2008/2012 to 2016/2019
 - Maintained virtual and physical servers through patching, upgrades, vulnerability remediation, and regular maintenance
 - Served as primary support, trainer, and administrator for all casino systems
@@ -60,7 +60,7 @@ System Administrator with 10+ years of IT experience supporting enterprise infra
 - Implemented copper (Cat5e/6/6a) and fiber (MM/SM) networking and expanded casino Wi-Fi scope
 - Performed weekly operational tasks including DB2 Sysback, Switchover Online SDS, monthly archiving, and Scientific Games vendor collaboration
 
-**IT Support Specialist I**
+#### IT Support Specialist I
 - Troubleshot hardware issues across servers, applications, phones, computers, and peripherals
 - Ensured network, system, and data availability and integrity through preventative maintenance and upgrades
 - Provided documentation on startup, shutdown, and first-level troubleshooting for help desk staff
