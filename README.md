@@ -194,6 +194,21 @@ An interactive web application designed to help users test and analyze keyboard 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### [mcmodupdate.app](https://github.com/BryantWelch/mcmodupdate.app)
+A web-based Minecraft mod manager and modpack builder using the Modrinth API. Identifies mods by file hash, resolves dependencies, flags conflicts, and exports `.mrpack` files — with support for Fabric, Forge, NeoForge, and Quilt.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### [WallBrowser](https://github.com/BryantWelch/WallBrowser)
+A mobile-optimized wallpaper browser for Wallhaven, built with React. Includes advanced filters, color search, favorites, bulk downloads, and a responsive UI.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### [Spreadsheet-Wrangler](https://github.com/BryantWelch/Spreadsheet-Wrangler)
 A feature-packed PowerShell GUI tool for spreadsheet operations with no Excel dependency. Includes backup functionality, spreadsheet combining, SKU list processing, label creation, and configuration management.
 
