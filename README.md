@@ -178,6 +178,13 @@ A comprehensive Active Directory reporting tool that generates detailed snapshot
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+### [Spreadsheet-Wrangler](https://github.com/BryantWelch/Spreadsheet-Wrangler)
+A feature-packed PowerShell GUI tool for spreadsheet operations with no Excel dependency. Includes backup functionality, spreadsheet combining, SKU list processing, label creation, and configuration management.
+
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ### [display-test.app](https://github.com/BryantWelch/display-test.app)
 A modern, comprehensive display testing application designed to help users evaluate and diagnose various aspects of their displays. From dead pixels to response time, this tool provides a suite of tests to ensure your display is performing optimally.
 
@@ -208,13 +215,6 @@ A mobile-optimized wallpaper browser for Wallhaven, built with React. Includes a
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### [Spreadsheet-Wrangler](https://github.com/BryantWelch/Spreadsheet-Wrangler)
-A feature-packed PowerShell GUI tool for spreadsheet operations with no Excel dependency. Includes backup functionality, spreadsheet combining, SKU list processing, label creation, and configuration management.
-
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
